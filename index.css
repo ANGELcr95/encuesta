@@ -381,6 +381,10 @@ input[type="radio"] {
         -webkit-transform: scale(1.2); /* Chrome, Safari, Opera */
         transform: scale(1.2);
     }
+    #w3review{
+        width: 90%;
+    }
+
     
     
 
